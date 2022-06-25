@@ -1,4 +1,4 @@
-# Usar:
+# Modo de uso:
 
 <strong>Apenas para PHP-CLI</strong>
 
