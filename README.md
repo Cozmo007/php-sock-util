@@ -1,2 +1,7 @@
-# php-sock-util
-Utilitario socket em php
+# Usar:
+
+<strong>Apenas para PHP-CLI</strong>
+
+<code>php start.php</code>
+
+<i>Bom uso!</i>
